@@ -4,4 +4,4 @@
 
 Для запуска программ необходимо установить библеотеку sympy 
 
-pip install sympy 
+#pip install sympy 
